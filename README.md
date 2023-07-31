@@ -1,4 +1,4 @@
-# Kaggle-Competitions
+# Kaggle Competitions
 This contains my submissions for all the Kaggle competitions.
 
 # [Spaceship Titanic Competition](https://github.com/BOLTZZ/Kaggle-Competitions/blob/main/Spaceship%20Titanic%20Submission.ipynb)
